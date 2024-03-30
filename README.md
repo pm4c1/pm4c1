@@ -23,8 +23,7 @@
 | front | sql | etc | tool | other |
  | :------- | :--------- | :-------- | :------| :------ |
  | <img src="https://img.shields.io/badge/CSS3-white.svg?style=flat-square&logo=CSS3&logoColor=1572B6"> | <img src="https://img.shields.io/badge/Oracle-white.svg?style=flat-square&logo=oracle&logoColor=F80000"> |  <img src="https://img.shields.io/badge/Notion-white.svg?style=flat-square&logo=notion&logoColor=000000"> | <img src="https://img.shields.io/badge/vscode-white.svg?style=flat-square&logo=visualstudiocode&logoColor=007ACC"> | <img src="https://img.shields.io/badge/Python-white.svg?style=flat-square&logo=python&logoColor=3776AB">
-| <img src="https://img.shields.io/badge/html5-white.svg?style=flat-square&logo=html5&logoColor=E34F26"> | | | <img src="https://img.shields.io/badge/eclipse-white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255"> | <img src="https://img.shields.io/badge/c-white.svg?style=flat-square&logo=c&logoColor=A8B9CC">
-|<img src="https://img.shields.io/badge/JS-white.svg?style=flat-square&logo=javascript&logoColor=F7DF1E">
+| <img src="https://img.shields.io/badge/html5-white.svg?style=flat-square&logo=html5&logoColor=E34F26"> | | | <img src="https://img.shields.io/badge/eclipse-white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255"> | <img src="https://img.shields.io/badge/JS-white.svg?style=flat-square&logo=javascript&logoColor=F7DF1E">
 
 <div align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a>
