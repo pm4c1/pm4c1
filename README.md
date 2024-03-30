@@ -6,14 +6,8 @@
  <p>열심히 노력하는 성실한 개발자 <strong>rlaalstjd</strong>이 되겠습니다.</p>
 
 <div>
-<a href = "https://dlclfh.notion.site/DLCLFH-PROFILE-113ab60c1049448dbd99cccf4ff90d16?pvs=4"> <img src="https://img.shields.io/badge/나의 노션 -white.svg?style=flat&logo=notion&logoColor=000000"> 
+<a href = "[https://dlclfh.notion.site/DLCLFH-PROFILE-113ab60c1049448dbd99cccf4ff90d16?pvs=4](https://www.notion.so/d8b02f44b71c48eabfdc0c558d0b4d92?v=867ef1d0d3c74b8bb3bd9b7c42c67250)"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"> 
 </a> 
-<a href = "https://velog.io/@dlclfh0404">
-   <img src="https://img.shields.io/badge/나의 벨로그 -white.svg?style=flat&logo=velog&logoColor=#20C997">
-</a>
-<a href="mailto:dlclfh0404@naver.com">
-  <img src="https://img.shields.io/badge/메일 -white.svg?style=flat&logo=naver&logoColor=#03C75A">
-</a>
 </div>
 <br>
 
