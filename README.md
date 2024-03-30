@@ -25,7 +25,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a>
 </div>
    
-
+<img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=kornet79&show_icons=true&theme=tokyonight" />
+        <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kornet79&layout=compact&theme=tokyonight" />
 
 
 
