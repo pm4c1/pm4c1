@@ -1,6 +1,6 @@
 ## ABOUT ME 
 
-### 👨‍💻 DEVELOPER
+### DEVELOPER
 
  <p>성일정보고등학교 <strong>소프트웨어개발과 재학중</strong></p>
  <p>다양한것에 도전하고, 노력하는 방랑자 <strong>김민성</strong>입니다.</p>
