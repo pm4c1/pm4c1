@@ -21,7 +21,6 @@
    
 <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&theme=tokyonight" />
 <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&layout=compact&theme=tokyonight" />
-(https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
 
 
