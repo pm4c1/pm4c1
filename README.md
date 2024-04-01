@@ -11,8 +11,8 @@
 </div>
 <br>
 
-| front | sql | etc | tool | other |
- | :------- | :--------- | :-------- | :------| :------ |
+| front | sql | etc | tool | other | license |
+ | :------- | :--------- | :-------- | :------| :------ | :------ |
  | <img src="https://img.shields.io/badge/CSS3-white.svg?style=flat-square&logo=CSS3&logoColor=1572B6"> | <img src="https://img.shields.io/badge/Oracle-white.svg?style=flat-square&logo=oracle&logoColor=F80000"> |  <img src="https://img.shields.io/badge/Notion-white.svg?style=flat-square&logo=notion&logoColor=000000"> | <img src="https://img.shields.io/badge/vscode-white.svg?style=flat-square&logo=visualstudiocode&logoColor=007ACC"> | <img src="https://img.shields.io/badge/Python-white.svg?style=flat-square&logo=python&logoColor=3776AB">
 | <img src="https://img.shields.io/badge/html5-white.svg?style=flat-square&logo=html5&logoColor=E34F26"> | | | <img src="https://img.shields.io/badge/eclipse-white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255"> | <img src="https://img.shields.io/badge/Java-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000">
 | <img src="https://img.shields.io/badge/JS-white.svg?style=flat-square&logo=javascript&logoColor=F7DF1E"> 
