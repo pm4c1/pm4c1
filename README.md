@@ -11,6 +11,7 @@
 </div>
 <br>
 자격증은 어떻게 추가해야될지 모르겠어서 안하는중입니다....
+
 | front | sql | etc | tool | other | license |
  | :------- | :--------- | :-------- | :------| :------ | :------ |
  | <img src="https://img.shields.io/badge/CSS3-white.svg?style=flat-square&logo=CSS3&logoColor=1572B6"> | <img src="https://img.shields.io/badge/Oracle-white.svg?style=flat-square&logo=oracle&logoColor=F80000"> |  <img src="https://img.shields.io/badge/Notion-white.svg?style=flat-square&logo=notion&logoColor=000000"> | <img src="https://img.shields.io/badge/vscode-white.svg?style=flat-square&logo=visualstudiocode&logoColor=007ACC"> | <img src="https://img.shields.io/badge/Python-white.svg?style=flat-square&logo=python&logoColor=3776AB">
