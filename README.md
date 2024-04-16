@@ -2,7 +2,6 @@
 
 ### DEVELOPER
 
-
  <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
  <p>다양한것에 도전하고, 노력하는 방랑자 <strong>김민성</strong>입니다.</p>
 
@@ -22,4 +21,3 @@
    
 <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&theme=tokyonight" />
 <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&layout=compact&theme=tokyonight" />
-
