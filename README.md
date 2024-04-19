@@ -18,6 +18,7 @@
 | <img src="https://img.shields.io/badge/html5-white.svg?style=flat-square&logo=html5&logoColor=E34F26"> | | | <img src="https://img.shields.io/badge/eclipse-white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255"> | <img src="https://img.shields.io/badge/Java-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000">
 | <img src="https://img.shields.io/badge/JS-white.svg?style=flat-square&logo=javascript&logoColor=F7DF1E"> 
 | <img src="https://img.shields.io/badge/jQuery-white.svg?style=flat-square&logo=jQuery&logoColor=0769AD">
+| | |
 
 ## About me
 | What | When | Where |
