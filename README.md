@@ -18,7 +18,6 @@
 | <img src="https://img.shields.io/badge/html5-white.svg?style=flat-square&logo=html5&logoColor=E34F26"> | | <img src="https://img.shields.io/badge/notepadplusplus-white.svg?style=flat-square&logo=notepadplusplus&logoColor=3776AB">| <img src="https://img.shields.io/badge/eclipse-white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255"> | <img src="https://img.shields.io/badge/Java-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000">
 | <img src="https://img.shields.io/badge/JS-white.svg?style=flat-square&logo=javascript&logoColor=F7DF1E"> | | <img src="https://img.shields.io/badge/sublimetext-white.svg?style=flat-square&logo=sublimetext&logoColor=3776AB"> | <img src="https://img.shields.io/badge/IntelliJ -white.svg?style=flat-square&logo=intellijidea&logoColor=2C2255" title="Just Image">
 | <img src="https://img.shields.io/badge/jQuery-white.svg?style=flat-square&logo=jQuery&logoColor=0769AD"> | | | <img src="https://img.shields.io/badge/pycharm-white.svg?style=flat-square&logo=pycharm&logoColor=3776AB"> 
-| <img src="https://img.shields.io/badge/threedotjs-white.svg?style=flat-square&logo=threedotjs&logoColor=3776AB">
 
 ## About me
 | What | When | Where |
