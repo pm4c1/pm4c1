@@ -5,10 +5,6 @@
  <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
  <p>다양한것에 도전하고, 노력하는 망령 <strong>김민성</strong>입니다.</p>
 
-<div>
-<a href = "https://www.notion.so/d8b02f44b71c48eabfdc0c558d0b4d92?v=867ef1d0d3c74b8bb3bd9b7c42c67250&pvs=4"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"> 
-</a> 
-</div>
 <br>
 자격증은 어떻게 추가해야될지 모르겠어서 안하는중입니다....
 
