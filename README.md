@@ -5,7 +5,7 @@
  <pre>
  <strong>성일정보고등학교 소프트웨어개발과 재학중</strong>
  인터넷 망령 <strong>김민성</strong>입니다.
- 저는 <strong>HTML</strong>로 코딩해요 ~ ㅋㅋ..
+ 저는 <strong>HTML</strong>로 프로그래밍해요 ~ ㅋㅋ..
  </pre>
 
 | front | sql | etc | tool | other |
