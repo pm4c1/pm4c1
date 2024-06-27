@@ -24,7 +24,8 @@
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | Web After School Class |
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
-| 성일정보고등학교 방과후 자바 Lv.3 | 2024. 04 ~ 현재 | Sungil Information High School |
+| 성일정보고등학교 방과후 자바 Lv.3 | 2024. 04. 11 ~ 2024. 05. 30 | Java.Lv3 After School Class |
+| 성일정보고등학교 방과후 자바 Lv.4 | 2024. 06. 04 ~ 현재 | Java.Lv4 After School Class |
    
 <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&theme=black" />
 <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&layout=compact&theme=black" />
