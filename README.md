@@ -4,8 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=C378F1&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Minsung+Kim+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
- <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
- <p>인터넷 망령 <strong>김민성</strong>입니다.</p>
+ <pre>
+ <strong>성일정보고등학교 소프트웨어개발과 재학중</strong>
+ 인터넷 망령 <strong>김민성</strong>입니다.
+ </pre>
 
 <br>
 자격증은 어떻게 추가해야될지 모르겠어서 안하는중입니다....
