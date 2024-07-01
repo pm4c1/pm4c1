@@ -10,9 +10,9 @@
 ## 🙋‍♂️ About Me
 🌱 I’m a second year student at Seongil Information High School.
 
-🎓 I’m currently studying Unity and Unreal.
+🎓 I’m currently studying web design and Front-end.
 
-📫 My email : **dbsrjs1224@gmail.com**
+📫 My email : **rqpanxoqbxia1@gmail.com**
 
 <br>
 
