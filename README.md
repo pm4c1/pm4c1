@@ -3,11 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=C378F1&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Minsung+Kim+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
- <pre align="center">
+ <pre>
  <strong>성일정보고등학교 소프트웨어개발과 재학중인</strong>
  웹 개발하는 <strong>김민성</strong>입니다. </pre>
 
-<details align="center">
+<details>
   <summary><h2>About me</h2></summary>
  
 | front | sql | etc | tool | other |
@@ -19,7 +19,7 @@
 
 </details>
 
-<details align="center">
+<details>
   <summary><h2>About me</h2></summary>
  
    | What | When | Where |
@@ -36,7 +36,7 @@
    | 성일정보고등학교 방과후 자바 Lv.4 | 2024. 06. 04 ~ 현재 | Java.Lv4 After School Class |
  
 </details>
-<p align="center">
+<p>
   <br/>
   <a href="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="pm4c1 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="pm4c1 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
