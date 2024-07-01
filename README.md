@@ -8,7 +8,7 @@
  웹 개발하는 <strong>김민성</strong>입니다. </pre>
 
 <details>
-  <summary><h2>About me</h2></summary>
+  <summary><h2>language and tools</h2></summary>
  
 | front | sql | etc | tool | other |
  | :------- | :--------- | :-------- | :------| :------ |
