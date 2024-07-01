@@ -37,7 +37,7 @@
 </details>
 <p align="center">
   <br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="dbsrjs Github Stats" src="https://github-readme-stats.vercel.app/api?username=dbsrjs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="dbsrjs Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsrjs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="pm4c1 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="pm4c1 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
