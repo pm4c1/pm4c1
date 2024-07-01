@@ -35,6 +35,9 @@
    | 성일정보고등학교 방과후 자바 Lv.4 | 2024. 06. 04 ~ 현재 | Java.Lv4 After School Class |
  
 </details>
-   
-<img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&theme=black" />
-<img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&layout=compact&theme=black" />
+<p align="center">
+  <br/>
+  <a href="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="dbsrjs Github Stats" src="https://github-readme-stats.vercel.app/api?username=dbsrjs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="dbsrjs Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsrjs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</p>
