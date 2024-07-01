@@ -15,6 +15,7 @@
 
 <details>
   <summary><h2>About me</h2></summary>
+ 
    | What | When | Where |
    |:--------:|:--------:|:--------:|
    | 성일정보고등학교 소프트웨어 개발과 재학중 | 2023. 03. 2 ~ 현재 | Sungil Information High School | 
@@ -27,6 +28,7 @@
    | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
    | 성일정보고등학교 방과후 자바 Lv.3 | 2024. 04. 11 ~ 2024. 05. 30 | Java.Lv3 After School Class |
    | 성일정보고등학교 방과후 자바 Lv.4 | 2024. 06. 04 ~ 현재 | Java.Lv4 After School Class |
+ 
 </details>
    
 <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&theme=black" />
