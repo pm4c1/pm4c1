@@ -5,7 +5,16 @@
 
  <pre>
  <strong>성일정보고등학교 소프트웨어개발과 재학중인</strong>
- 웹 개발하는 <strong>김민성</strong>입니다. </pre>
+ 웹 개발하는 <strong>김민성</strong>입니다. </pre><br>
+ 
+## 🙋‍♂️ About Me
+🌱 I’m a second year student at Seongil Information High School.
+
+🎓 I’m currently studying Unity and Unreal.
+
+📫 My email : **dbsrjs1224@gmail.com**
+
+<br>
 
 <details>
   <summary><h2>language and tools</h2></summary>
