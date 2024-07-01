@@ -6,7 +6,7 @@
  <strong>성일정보고등학교 소프트웨어개발과 재학중</strong>
  웹 개발하는 <strong>김민성</strong>입니다. </pre>
 
-<details>
+<details align="center">
   <summary><h2>About me</h2></summary>
  
 | front | sql | etc | tool | other |
@@ -18,7 +18,7 @@
 
 </details>
 
-<details>
+<details align="center">
   <summary><h2>About me</h2></summary>
  
    | What | When | Where |
