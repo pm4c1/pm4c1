@@ -20,7 +20,7 @@
 <br>
 
 <details>
-  <summary><h2>language and tools</h2></summary>
+  <summary><h2>The language I use</h2></summary>
   <p align="center"> <!--language-->
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!-- JAVA -->
      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <!-- Python -->
