@@ -55,10 +55,14 @@
    | 성일정보고등학교 방과후 자바 Lv.4 | 2024. 06. 04 ~ 현재 | Java.Lv4 After School Class |
  
 </details>
-<p>
-  <br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="pm4c1 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pm4c1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="pm4c1 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm4c1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-</p>
+<div>
+  <a href="https://github.com/RamonLarcherRibeiro">
+  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="140em" src="https://streak-stats.demolab.com?user=RamonLarcherRibeiro&theme=algolia" alt="GitHub Streak" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamonLarcherRibeiro&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamonLarcherRibeiro&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamonLarcherRibeiro&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamonLarcherRibeiro&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RamonLarcherRibeiro&theme=algolia">
+</div>
 </div>
