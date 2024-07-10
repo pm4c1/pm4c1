@@ -1,5 +1,3 @@
-<div align="center">
-<h1>Self Introduction</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=C378F1&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Minsung+Kim+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
