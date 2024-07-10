@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <!--PYTHON-->
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <!--HTML-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <!--css-->
-  <img src="https://img.shields.io/badge/javascipt-1572B6?style=for-the-badge&logo=javascipt&logoColor=white"> <!--javascript-->
 </p>
 
 <p aling="center"><!--tools-->
