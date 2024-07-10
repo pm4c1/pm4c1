@@ -8,7 +8,7 @@
  웹 개발하는 <strong>김민성</strong>입니다. </pre><br>
  
 ## 🙋‍♂️ About Me
-🌱 I’m a second year student at Seongil Information High School.
+🌱 I’m a second year student at <strong>Seongil Information High School.</strong>
 
 🎓 I’m currently studying web design and Front-end.
 
