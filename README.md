@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 🌱 I’m a second year student at <strong>Seongil Information High School.</strong>
 
-🎓 I’m currently studying web design and Front-end.
+🎓 I’m currently studying <strong>web design</strong> and <strong>Front-end</strong>.
 
 📫 My email : **rqpanxoqbxia1@gmail.com**
 
