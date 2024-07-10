@@ -20,7 +20,7 @@
 <br>
 
 <details>
-  <summary><h2>The language I use</h2></summary>
+  <summary><h2>The Most language</h2></summary>
   <p align="center"> <!--language-->
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!-- JAVA -->
      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <!-- Python -->
@@ -31,7 +31,7 @@
   </p>
 </details>
 <details>
-  <summary><h2>The tool I use</h2></summary>
+  <summary><h2>The Most tool</h2></summary>
   <p aling="center"><!--tools-->
      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <!-- Eclips -->
      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label="> <!-- IntelliJ -->
