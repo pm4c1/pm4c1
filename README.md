@@ -14,7 +14,7 @@
 
 📫 My email : **rqpanxoqbxia1@gmail.com**
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /> <!-- Notion -->
+<a href="https://hallowed-bonnet-3c9.notion.site/Main-Page-Portfolio-a0e96fef15d048e5b0c6652ac2e84323?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a> <!-- Notion -->
 
 <br>
 
