@@ -8,7 +8,7 @@
  웹 개발하는 <strong>김민성</strong>입니다. </pre><br>
  
 ## 🙋‍♂️ About Me
-🌱 I’m a 18 year student at <strong>Seongil Information High School.</strong>
+🌱 I’m a <Strong>18 year student</strong> at <strong>Seongil Information High School.</strong>
 
 🎓 I’m currently studying <strong>web design</strong> and <strong>Front-end</strong>.
 
