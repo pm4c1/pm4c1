@@ -6,8 +6,6 @@
  <strong>성일정보고등학교 소프트웨어개발과 재학중인</strong>
  웹 개발하는 <strong>김민성</strong>입니다. </pre><br>
  
- <img src="cat.webp" width="50"/>
- 
 ## Self Introduction
 🌱 I’m a <Strong>18 year student</strong> at <strong>Seongil Information High School.</strong>
 
