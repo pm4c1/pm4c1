@@ -1,0 +1,14 @@
+drop table tbl_vote_202005;
+drop table tbl_member_202005;
+drop table tbl_party_202005;
+drop table member_tbl_02;
+drop table money_tbl_02;
+drop table tbl_patient_202004;
+drop table tbl_lab_test_202004;
+drop table tbl_result_202004;
+drop table tbl_jumin_202108;
+drop table tbl_hosp_202108;
+drop table tbl_vaccresv_202108;
+drop table city_code_tbl_02;
+drop table student_tbl_03;
+drop table exam_tbl_03;
