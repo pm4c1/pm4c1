@@ -1,7 +1,7 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=B468I3&size=38&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Web!%2C+is+Favorite+Language+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
+ 
  <pre>
  <strong>성일정보고등학교 소프트웨어개발과 재학중인</strong>
  웹 개발하는 <strong>김민성</strong>입니다. </pre><br> 
