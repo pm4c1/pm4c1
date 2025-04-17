@@ -18,7 +18,7 @@
 
 <br>
 
-<details>
+<details> 
   <summary><h2>The Most language</h2></summary>
   <p align="center"> <!--language-->
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!-- JAVA -->
